@@ -11,5 +11,9 @@
     "url": "https://github.com/bethannezink/make-me-a-citizen"
   },
   "author": "Bethanne Zink <bethannezink@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "ask-sdk": "^2.0.7",
+    "dotenv": "^6.0.0"
+  }
 }
