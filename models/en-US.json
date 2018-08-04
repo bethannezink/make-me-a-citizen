@@ -1,0 +1,41 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "make me a citizen",
+            "intents": [
+                {
+                    "name": "AMAZON.FallbackIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "Practice",
+                    "slots": [],
+                    "samples": [
+                        "practice"
+                    ]
+                },
+                {
+                    "name": "Test",
+                    "slots": [],
+                    "samples": [
+                        "quiz me",
+                        "test"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
