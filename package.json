@@ -1,0 +1,11 @@
+{
+  "name": "make-me-a-citizen",
+  "version": "1.0.0",
+  "description": "An Alexa Skill to practice civics questions for the U.S. Naturalization Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bethanne Zink <bethannezink@gmail.com>",
+  "license": "ISC"
+}
